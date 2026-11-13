@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Free dumpling coloring sheet for kids with three friends">
+  <rect width="800" height="1000" fill="white"/>
+  <defs>
+    <g id="dumpling">
+      <path d="M -130 90 C -115 -30 -50 -95 0 -95 C 50 -95 115 -30 130 90 C 130 140 70 155 0 155 C -70 155 -130 140 -130 90 Z" fill="white" stroke="black" stroke-width="7" stroke-linejoin="round"/>
+      <path d="M -70 -60 Q -60 -20 -66 10" fill="none" stroke="black" stroke-width="6" stroke-linecap="round"/>
+      <path d="M 0 -95 Q 0 -50 0 -10" fill="none" stroke="black" stroke-width="6" stroke-linecap="round"/>
+      <path d="M 70 -60 Q 60 -20 66 10" fill="none" stroke="black" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="-42" cy="55" r="11" fill="black"/>
+      <circle cx="42" cy="55" r="11" fill="black"/>
+      <circle cx="-38" cy="51" r="3" fill="white"/>
+      <circle cx="46" cy="51" r="3" fill="white"/>
+      <path d="M -22 95 Q 0 115 22 95" fill="none" stroke="black" stroke-width="6" stroke-linecap="round"/>
+    </g>
+  </defs>
+  <!-- big dumpling center -->
+  <use href="#dumpling" transform="translate(400 480) scale(1.6)"/>
+  <!-- small dumpling left -->
+  <use href="#dumpling" transform="translate(170 730) scale(0.9) rotate(-8)"/>
+  <!-- small dumpling right -->
+  <use href="#dumpling" transform="translate(630 730) scale(0.9) rotate(8)"/>
+  <!-- hearts -->
+  <g fill="white" stroke="black" stroke-width="6" stroke-linejoin="round">
+    <path d="M 150 300 C 135 282 105 292 150 340 C 195 292 165 282 150 300 Z"/>
+    <path d="M 650 300 C 635 282 605 292 650 340 C 695 292 665 282 650 300 Z"/>
+    <path d="M 400 130 C 385 112 355 122 400 170 C 445 122 415 112 400 130 Z"/>
+  </g>
+</svg>

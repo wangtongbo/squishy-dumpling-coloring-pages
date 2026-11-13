@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Detailed chubby dumpling line art printable for adults">
+  <rect width="800" height="1000" fill="white"/>
+  <g fill="white" stroke="black" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- outer decorative ring -->
+    <circle cx="400" cy="500" r="330" fill="none" stroke-width="4" stroke-dasharray="2 14"/>
+    <circle cx="400" cy="500" r="290" fill="none" stroke-width="4"/>
+    <!-- dumpling body -->
+    <path d="M 200 560 C 218 420 320 330 400 330 C 480 330 582 420 600 560 C 600 625 510 645 400 645 C 290 645 200 625 200 560 Z"/>
+    <!-- pleats -->
+    <path d="M 300 365 Q 313 408 305 445" fill="none"/>
+    <path d="M 350 338 Q 362 385 355 428" fill="none"/>
+    <path d="M 400 330 Q 400 382 400 425" fill="none"/>
+    <path d="M 450 338 Q 438 385 445 428" fill="none"/>
+    <path d="M 500 365 Q 487 408 495 445" fill="none"/>
+    <!-- inner decorative arcs on body -->
+    <path d="M 250 585 Q 400 545 550 585" fill="none" stroke-width="4"/>
+    <path d="M 275 610 Q 400 575 525 610" fill="none" stroke-width="4"/>
+    <!-- face -->
+    <circle cx="340" cy="500" r="13" fill="black" stroke="none"/>
+    <circle cx="460" cy="500" r="13" fill="black" stroke="none"/>
+    <circle cx="345" cy="495" r="4" fill="white" stroke="none"/>
+    <circle cx="465" cy="495" r="4" fill="white" stroke="none"/>
+    <path d="M 368 555 Q 400 580 432 555" fill="none"/>
+    <!-- surrounding stars -->
+    <g stroke-width="4">
+      <path d="M 400 120 L 412 150 L 444 153 L 420 174 L 428 206 L 400 188 L 372 206 L 380 174 L 356 153 L 388 150 Z"/>
+      <path d="M 150 250 L 159 272 L 183 274 L 165 290 L 171 314 L 150 301 L 129 314 L 135 290 L 117 274 L 141 272 Z"/>
+      <path d="M 650 250 L 659 272 L 683 274 L 665 290 L 671 314 L 650 301 L 629 314 L 635 290 L 617 274 L 641 272 Z"/>
+      <path d="M 130 620 L 139 642 L 163 644 L 145 660 L 151 684 L 130 671 L 109 684 L 115 660 L 97 644 L 121 642 Z"/>
+      <path d="M 670 620 L 679 642 L 703 644 L 685 660 L 691 684 L 670 671 L 649 684 L 655 660 L 637 644 L 661 642 Z"/>
+    </g>
+    <!-- surrounding hearts -->
+    <path d="M 210 830 C 197 814 170 823 210 866 C 250 823 223 814 210 830 Z"/>
+    <path d="M 590 830 C 577 814 550 823 590 866 C 630 823 603 814 590 830 Z"/>
+    <path d="M 400 860 C 387 844 360 853 400 896 C 440 853 413 844 400 860 Z"/>
+    <!-- dots -->
+    <circle cx="255" cy="180" r="10"/>
+    <circle cx="545" cy="180" r="10"/>
+    <circle cx="90" cy="430" r="10"/>
+    <circle cx="710" cy="430" r="10"/>
+    <circle cx="290" cy="880" r="8"/>
+    <circle cx="510" cy="880" r="8"/>
+  </g>
+</svg>

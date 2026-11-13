@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Cute dumpling printable in bamboo steamer basket">
+  <rect width="800" height="1000" fill="white"/>
+  <g fill="white" stroke="black" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <!-- dumpling peeking out of the steamer -->
+    <path d="M 230 580 C 250 430 340 340 400 340 C 460 340 550 430 570 580 Z"/>
+    <path d="M 320 375 Q 332 420 324 455" fill="none"/>
+    <path d="M 400 340 Q 400 395 400 440" fill="none"/>
+    <path d="M 480 375 Q 468 420 476 455" fill="none"/>
+    <circle cx="345" cy="490" r="14" fill="black" stroke="none"/>
+    <circle cx="455" cy="490" r="14" fill="black" stroke="none"/>
+    <circle cx="350" cy="485" r="4" fill="white" stroke="none"/>
+    <circle cx="460" cy="485" r="4" fill="white" stroke="none"/>
+    <path d="M 372 545 Q 400 570 428 545" fill="none"/>
+    <circle cx="305" cy="535" r="14" fill="none" stroke-width="5"/>
+    <circle cx="495" cy="535" r="14" fill="none" stroke-width="5"/>
+    <!-- steam curls -->
+    <path d="M 300 250 Q 280 220 300 190 Q 320 160 300 130" fill="none" stroke-width="6"/>
+    <path d="M 400 240 Q 380 210 400 180 Q 420 150 400 120" fill="none" stroke-width="6"/>
+    <path d="M 500 250 Q 480 220 500 190 Q 520 160 500 130" fill="none" stroke-width="6"/>
+    <!-- steamer basket -->
+    <rect x="205" y="575" width="390" height="36" rx="18"/>
+    <path d="M 225 611 L 575 611 L 555 800 Q 400 832 245 800 Z"/>
+    <path d="M 232 665 L 568 665" fill="none"/>
+    <path d="M 238 735 L 562 735" fill="none"/>
+    <!-- little feet -->
+    <path d="M 270 812 L 260 855" fill="none"/>
+    <path d="M 530 812 L 540 855" fill="none"/>
+  </g>
+</svg>
