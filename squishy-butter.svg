@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="Kawaii butter squishy coloring sheet with melting drips and a happy face">
+  <rect width="800" height="1000" fill="white"/>
+  <g fill="white" stroke="black" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- butter pat body -->
+    <path d="M 170 520 C 170 470 220 445 400 445 C 580 445 630 470 630 520 L 630 640 C 630 690 580 710 400 710 C 220 710 170 690 170 640 Z"/>
+    <!-- melting drips down the front -->
+    <path d="M 250 705 C 245 745 255 775 268 790 C 281 775 290 745 285 705" fill="none"/>
+    <path d="M 400 710 C 394 760 402 800 414 818 C 426 800 435 760 430 710" fill="none"/>
+    <path d="M 545 705 C 540 740 550 765 563 780 C 576 765 585 740 580 705" fill="none"/>
+    <!-- wrapper paper crease along the top -->
+    <path d="M 175 520 C 260 495 540 495 625 520" fill="none"/>
+    <path d="M 205 500 L 235 462 L 265 500" fill="none"/>
+    <path d="M 535 500 L 565 462 L 595 500" fill="none"/>
+    <!-- eyes -->
+    <circle cx="320" cy="580" r="16" fill="black" stroke="none"/>
+    <circle cx="480" cy="580" r="16" fill="black" stroke="none"/>
+    <circle cx="325" cy="574" r="4" fill="white" stroke="none"/>
+    <circle cx="485" cy="574" r="4" fill="white" stroke="none"/>
+    <!-- smile -->
+    <path d="M 360 630 Q 400 668 440 630" fill="none"/>
+    <!-- blush -->
+    <circle cx="262" cy="620" r="15" fill="none" stroke-width="5"/>
+    <circle cx="538" cy="620" r="15" fill="none" stroke-width="5"/>
+    <!-- ground shadow -->
+    <path d="M 140 838 C 220 862 580 862 660 838" fill="none" stroke-width="6"/>
+  </g>
+</svg>

@@ -13,6 +13,16 @@ Print them at any size without losing quality — perfect for kids, classrooms, 
 | <img src="dumpling-steamer.svg" width="120"> | `dumpling-steamer.svg` | Easy-Medium |
 | <img src="dumpling-family.svg" width="120"> | `dumpling-family.svg` | Medium |
 | <img src="dumpling-mandala.svg" width="120"> | `dumpling-mandala.svg` | Detailed (teens/adults) |
+| <img src="squishy-butter.svg" width="120"> | `squishy-butter.svg` | Easy (ages 4+) |
+| <img src="squishy-drawing-steps.svg" width="120"> | `squishy-drawing-steps.svg` | Medium (how-to-draw, ages 6+) |
+| <img src="dumpling-collection.svg" width="120"> | `dumpling-collection.svg` | Medium (9 characters, ages 5+) |
+
+## Pages on the site
+
+- [Butter Squishy Coloring Page](https://squishydumplingcoloringpage.com/coloring-pages/butter-squishy) — the viral butter squishy shape with melty drips
+- [How to Draw a Squishy in 3 Steps](https://squishydumplingcoloringpage.com/coloring-pages/squishy-drawing-steps) — printable step-by-step practice sheet
+- [Dumpling Coloring Pages Collection](https://squishydumplingcoloringpage.com/coloring-pages/dumpling-coloring-pages) — nine characters on one sheet
+- [All squishy dumpling coloring pages](https://squishydumplingcoloringpage.com)
 
 ## How to Print
 
@@ -27,4 +37,4 @@ You may not resell the digital files or redistribute them as your own work.
 
 ## Keywords
 
-squishy dumpling coloring page, kawaii dumpling printable, cute food coloring sheet, free dumpling line art
+squishy dumpling coloring page, kawaii dumpling printable, cute food coloring sheet, free dumpling line art, butter squishy coloring page, how to draw a squishy, squishy drawing printable

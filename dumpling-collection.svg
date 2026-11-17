@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="Dumpling coloring pages collection sheet with nine assorted dumpling characters">
+  <rect width="800" height="1000" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <!-- grid guides -->
+    <rect x="60" y="70" width="680" height="860" rx="20"/>
+    <path d="M 60 357 L 740 357" stroke-width="4"/>
+    <path d="M 60 644 L 740 644" stroke-width="4"/>
+    <path d="M 287 70 L 287 930" stroke-width="4"/>
+    <path d="M 513 70 L 513 930" stroke-width="4"/>
+
+    <!-- 1: classic -->
+    <path d="M 105 285 C 105 245 150 220 173 220 C 197 220 242 245 242 285 C 242 310 220 322 173 322 C 127 322 105 310 105 285 Z"/>
+    <circle cx="152" cy="262" r="7" fill="black"/>
+    <circle cx="195" cy="262" r="7" fill="black"/>
+    <path d="M 160 288 Q 173 300 187 288"/>
+
+    <!-- 2: sleepy -->
+    <path d="M 330 285 C 330 245 375 220 400 220 C 425 220 470 245 470 285 C 470 310 448 322 400 322 C 352 322 330 310 330 285 Z"/>
+    <path d="M 375 262 Q 383 268 391 262"/>
+    <path d="M 410 262 Q 418 268 426 262"/>
+    <path d="M 390 292 Q 400 296 410 292"/>
+
+    <!-- 3: winking -->
+    <path d="M 557 285 C 557 245 602 220 627 220 C 652 220 697 245 697 285 C 697 310 674 322 627 322 C 580 322 557 310 557 285 Z"/>
+    <circle cx="605" cy="262" r="7" fill="black"/>
+    <path d="M 635 262 Q 643 268 651 262"/>
+    <path d="M 610 292 Q 627 306 645 292"/>
+
+    <!-- 4: bun with steam -->
+    <path d="M 105 545 C 105 505 150 480 173 480 C 197 480 242 505 242 545 C 242 570 220 582 173 582 C 127 582 105 570 105 545 Z"/>
+    <circle cx="152" cy="528" r="6" fill="black"/>
+    <circle cx="195" cy="528" r="6" fill="black"/>
+    <path d="M 160 550 Q 173 558 187 550"/>
+    <path d="M 128 455 Q 140 430 130 405" stroke-width="4"/>
+    <path d="M 173 450 Q 185 425 175 400" stroke-width="4"/>
+
+    <!-- 5: surprised -->
+    <path d="M 330 545 C 330 505 375 480 400 480 C 425 480 470 505 470 545 C 470 570 448 582 400 582 C 352 582 330 570 330 545 Z"/>
+    <circle cx="383" cy="525" r="8" fill="black"/>
+    <circle cx="417" cy="525" r="8" fill="black"/>
+    <ellipse cx="400" cy="556" rx="9" ry="11"/>
+
+    <!-- 6: grumpy -->
+    <path d="M 557 545 C 557 505 602 480 627 480 C 652 480 697 505 697 545 C 697 570 674 582 627 582 C 580 582 557 570 557 545 Z"/>
+    <path d="M 603 512 L 615 520"/>
+    <path d="M 651 512 L 639 520"/>
+    <path d="M 612 560 Q 627 550 642 560"/>
+
+    <!-- 7: with heart -->
+    <path d="M 105 830 C 105 790 150 765 173 765 C 197 765 242 790 242 830 C 242 855 220 867 173 867 C 127 867 105 855 105 830 Z"/>
+    <circle cx="152" cy="812" r="6" fill="black"/>
+    <circle cx="195" cy="812" r="6" fill="black"/>
+    <path d="M 158 838 Q 173 852 188 838"/>
+    <path d="M 205 745 C 198 730 178 730 178 745 C 178 730 158 730 151 745 C 145 762 178 782 178 782 C 178 782 211 762 205 745 Z" stroke-width="5"/>
+
+    <!-- 8: chef hat -->
+    <path d="M 330 830 C 330 790 375 765 400 765 C 425 765 470 790 470 830 C 470 855 448 867 400 867 C 352 867 330 855 330 830 Z"/>
+    <path d="M 360 750 C 350 730 358 708 375 708 C 380 690 400 686 406 700 C 415 688 435 692 438 708 C 455 708 462 730 452 750 Z"/>
+    <circle cx="383" cy="812" r="6" fill="black"/>
+    <circle cx="417" cy="812" r="6" fill="black"/>
+    <path d="M 388 840 Q 400 850 412 840"/>
+
+    <!-- 9: tiny dumpling family -->
+    <path d="M 565 830 C 565 800 590 785 607 785 C 624 785 649 800 649 830 C 649 848 634 856 607 856 C 580 856 565 848 565 830 Z"/>
+    <path d="M 660 845 C 660 825 675 815 686 815 C 697 815 712 825 712 845 C 712 857 702 863 686 863 C 670 863 660 857 660 845 Z"/>
+    <circle cx="598" cy="818" r="5" fill="black"/>
+    <circle cx="618" cy="818" r="5" fill="black"/>
+    <circle cx="680" cy="836" r="4" fill="black"/>
+    <circle cx="694" cy="836" r="4" fill="black"/>
+  </g>
+</svg>
